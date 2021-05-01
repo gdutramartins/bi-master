@@ -1,0 +1,13 @@
+
+- Granularidades - 
+  - Tempo - mês? Semana? Talvez semana seja interessante, por conta dos efeitos da pandemia.
+  - Produto - Categoria? Talvez seja muito genérico, pelo pouco que pude ver (não consegui carregar por causa das virgulas) chinelo, sapato e tenis estão em calçados, talvez um nível inferior.
+  - Venda - UF, Municipio, Loja. Municipio seria interessante. O IBGE possui dados dos municipios, não vi a API para os dados mais importantes, somente localidade, mas ter um indicador do municipio, como tamanho da população, renda per capita, etc... é bem interessante. O dado tem, mas parece que terá que ser extraído do site IBGE. Caso a escolha seja loja então seria interessante saber a quantidade de dias que funciona (shopping != lojas de rua).
+ 
+- A pandemia trouxe uma variável que pode afetar os treinos: Se compararmos 2019 com 2020 e 21 teremos meses que lojas não funcionaram, mas isso não foi sazonalidade ou tendencia, foi um cataclisma, então buscar uma série histórica com situações externas tão distintas... Ou separamos duas fases ou tentamos criar um dado que tente normalizar essa situação. 
+  
+- Seria interessante saber o valor da taxa selic (influencia a taxa de credito) no mês?   
+  
+- Na venda sabemos se foi gerada por uma promoção, ou seja, o produto está em promoção? Essa é uma feature interessante, se vamos prever a venda no próximo período temos que saber se está em promoção e o mais correto seria o percentual de promoção, 0% se não tiver promoção.
+
+- Tempo de existência do produto. Tempo que ele está disponível para compra. Não sei se seria interessante, mas talvez valha o teste... Pode ser categórico ou booleano (se é novo).

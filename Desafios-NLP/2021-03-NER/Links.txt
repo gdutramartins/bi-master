@@ -1,0 +1,8 @@
+Word2vec embedding de biomediciona - https://bio.nlplab.org/#word-vectors
+Building Custom NER Model in Spacy 3.1 - https://zachlim98.github.io/me/2021-03/spacy3-ner-tutorial
+
+Estudo Fontes Biomédicas:
+   - BioWordVec e BioSentVec (fastText)- https://github.com/ncbi-nlp/BioSentVec
+   - BioBert 
+        . https://github.com/dmis-lab/biobert
+        . https://towardsdatascience.com/tagging-genes-and-proteins-with-biobert-c7b04fc6eb4f
