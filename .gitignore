@@ -20,9 +20,7 @@ Trabalhos-Curso/2021-03-BI-TW/dump_dw.sql
 *.architect~
 Trabalhos-Curso/2021-03-BI-TW/base-original/export_20210116.sql
 Desafios-NLP/2021-03-NER/word_vec/glove.840B.300d.txt
-Trabalhos-Curso/2021-05-DM/base/BaseLoja.csv
-Trabalhos-Curso/2021-05-DM/base/BaseProduto.csv
-Trabalhos-Curso/2021-05-DM/base/BaseVenda.csv
+Trabalhos-Curso/2021-05-DM/base/*.csv
 Desafios-NLP/2021-03-NER/word_vec/biomed.model.syn1neg.npy
 Desafios-NLP/2021-03-NER/word_vec/biomed.model.wv.vectors.npy
 Desafios-NLP/2021-03-NER/word_vec/biomed_word2vec.txt
